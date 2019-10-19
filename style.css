@@ -1,0 +1,79 @@
+.nan {  float: left;
+     margin-top: 40px;
+}
+h3{
+ float:right;
+font-size: 20px;
+margin-top:2px;
+}
+.image {
+ float:right ;
+ margin-top: 40px;
+ margin-right: 20px; 
+} 
+
+ h3 p {margin:0px;
+    color: lightgrey;
+}
+.image2 {
+    float:right ;
+    margin-top: 40px;
+    margin-right: 20px; 
+}
+.hr {
+ width: 90%;
+}
+h1 p {margin:0px;
+    color: lightgrey;
+    font-size: 10px;
+}
+.print {
+    float: right;
+    margin-top: 50px;
+}
+.print2 {
+    font-size: 6px;
+    float: right;
+    margin-top: 50px;
+}
+div{
+    text-indent: 50px;
+}
+.vanessa{
+    float: left;
+}
+ 
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3px;
+  } 
+.footer{
+    color:lightgrey;
+    text-align: center;
+    font-size: 10px;
+}
+.button {
+    background-color:brown;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    float:right;
+    margin-top: .5px;
+  }
+  ul li {
+      background-image: url(img/list-bg.png);
+      list-style-image: url(img/list1.png);
+  }
+  /* .list2{
+
+    float: right;
+  } */
+  .delete{ list-style-image: url(img/list2.png);}
